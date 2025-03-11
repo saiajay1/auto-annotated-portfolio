@@ -14,13 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a Gen AI Engineer, Web Developer, and Tech Consultant
+      Gen AI Engineer, Web Dev & Tech Consultant
 
 
-      I build, break, and optimize intelligent systems. From designing AI-driven
-      applications to crafting seamless web experiences, I blend machine
-      learning with modern web development to create solutions that are as
-      powerful as they are user-friendly.
+      I build AI-driven applications and seamless web experiences, merging
+      machine learning with modern development. Always pushing limits—never
+      settling.
     subtitle: >-
       I’ve spent the past few years pushing the limits of AI, automation, and
       web technologies—because “good enough” is never enough. If that sounds
