@@ -22,9 +22,10 @@ sections:
       learning with modern web development to create solutions that are as
       powerful as they are user-friendly.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I’ve spent the past few years pushing the limits of AI, automation, and
+      web technologies—because “good enough” is never enough. If that sounds
+      impressive, keep scrolling to explore my research, projects, and
+      innovations.
     styles:
       self:
         height: auto
