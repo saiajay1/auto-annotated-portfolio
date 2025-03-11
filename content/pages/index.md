@@ -11,10 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: >-
-      I’m a Gen AI Engineer, Web Dev & Tech Consultant I build AI-driven
-      applications and seamless web experiences, merging machine learning with
-      modern development. Always pushing limits—never settling.
+    title: 'I’m a Gen AI Engineer, Web Dev & Tech Consultant'
     subtitle: >-
       I build AI-driven applications and seamless web experiences, merging
       machine learning with modern development. Always pushing limits—never
