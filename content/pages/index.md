@@ -13,13 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Gen AI Engineer, Web Dev & Tech Consultant
-
-
-      I build AI-driven applications and seamless web experiences, merging
-      machine learning with modern development. Always pushing limits—never
-      settling.
+    title: ''
     subtitle: >-
       I’ve spent the past few years pushing the limits of AI, automation, and
       web technologies—because “good enough” is never enough. If that sounds
