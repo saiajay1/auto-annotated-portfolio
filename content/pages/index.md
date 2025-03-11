@@ -14,8 +14,21 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a Gen AI Engineer, Web Developer, and Tech Consultant
+
+
+      I build, break, and optimize intelligent systems. From designing AI-driven
+      applications to crafting seamless web experiences, I blend machine
+      learning with modern web development to create solutions that are as
+      powerful as they are user-friendly.
+
+
+      I’ve spent the past few years pushing the limits of AI, automation, and
+      web technologies—because “good enough” is never enough.
+
+
+      If that sounds impressive, keep scrolling to explore my research,
+      projects, and innovations.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
