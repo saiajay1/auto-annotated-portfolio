@@ -37,11 +37,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: >-
-      I’ve spent the past few years pushing the limits of AI, automation, and
-      web technologies—because “good enough” is never enough. If that sounds
-      impressive, keep scrolling to explore my research, projects, and
-      innovations.
+    subtitle: ''
     styles:
       self:
         height: auto
